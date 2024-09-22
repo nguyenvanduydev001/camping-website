@@ -1,13 +1,22 @@
 # Camping Website
-### Camping Website
 
--Thiết kế trang web cắm trại đáp ứng bằng HTML CSS & JavaScript
-- Chứa hình ảnh động trên hình ảnh bằng Gsap.
-- Được phát triển đầu tiên với phương pháp Mobile First, sau đó dành cho máy tính để bàn.
-- Tương thích với tất cả các thiết bị di động và có giao diện người dùng đẹp và dễ chịu.
+A fully responsive camping website designed with HTML, CSS, and JavaScript. This project features stunning animations on images using Gsap and is built with a Mobile-First approach, ensuring a seamless experience across all devices.
 
-Hãy tham gia kênh để xem thêm nhiều video như thế này nhé.[D4 Official](https://www.youtube.com/@nguyenvanduy2003)
+## Key Features
 
-![demo](/demo.png)
+- **Responsive Design**: Optimized for both mobile and desktop, ensuring a consistent and smooth experience on any device.
+- **Image Animations with Gsap**: Engaging animations on images that enhance the visual appeal.
+- **Mobile-First Development**: Designed for mobile first, then scaled up for larger screens.
+- **Cross-Device Compatibility**: Fully compatible with all mobile devices and delivers a beautiful and user-friendly interface.
 
-[Live demo](https://nguyenvanduydev001.github.io/camping-website/)
+## Preview
+
+![Demo](./demo.png)
+
+## Live Demo
+
+Check out the live version of the project here: [Live Demo](https://nguyenvanduydev001.github.io/camping-website/)
+
+---
+
+For more tutorials and projects like this, join my channel: [D4 Official](https://www.youtube.com/@nguyenvanduy2003)
